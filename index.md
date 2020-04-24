@@ -1,10 +1,10 @@
 ---
-layout: splash
+layout: default
 ---
 
-# R programming
+# Welcome!
 
-Welcome to the master level course in R Programming at the
+Welcome to the master level course in R Programming at the\
 Department of Statistics, Stockholm University.
 
 ## Course literature
