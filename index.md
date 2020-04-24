@@ -21,7 +21,8 @@ Department of Statistics, Stockholm University.
 - NN NN, teaching assistant
 
 ### Lecture 1 - Introduction
-Read: Matloff Chapter 1-2.\
+Read: Matloff Chapter 1-2.
+
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
 ### Lecture 2 - Introduction
