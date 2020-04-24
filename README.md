@@ -1,19 +1,19 @@
-## R programming
+# R programming
 
-## Lecture 1 - Introduction
+### Lecture 1 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
-## Lecture 2 - Introduction
+### Lecture 2 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
-## Lecture 3 - Introduction
+### Lecture 3 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
-## Lecture 4 - Introduction
+### Lecture 4 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
-## Lecture 5 - Introduction
+### Lecture 5 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
 
-## Lecture 6 - Introduction
+### Lecture 6 - Introduction
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
