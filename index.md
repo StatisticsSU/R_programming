@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 ---
 layout: default
 ---
-=======
-
->>>>>>> master
 
 # R programming
 
