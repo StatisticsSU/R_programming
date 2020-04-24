@@ -3,16 +3,6 @@ title: "Splash Page"
 layout: default
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
-
 # Welcome!
 
 Welcome to the master level course in R Programming at the\
@@ -53,6 +43,16 @@ Read: Matloff Chapter 1-2.\
 ### Lecture 6 - Introduction
 Read: Matloff Chapter 1-2.\
 [Slides](https://guides.github.com/features/mastering-markdown/) | [Code](https://guides.github.com/features/mastering-markdown/) | [Other stuff]()
+
+# Alternative setup using a table
+
+| Lecture  | Reading | Slides | Code | Other Material
+| ------------- | ------------- | -----| ------| ----- |
+| Lecture 1 - Introduction | Matloff Chapter 1-2 | [Slides](https://guides.github.com/features/mastering-markdown/)  | [Code](https://guides.github.com/features/mastering-markdown/) \| [Code 2](https://guides.github.com/features/mastering-markdown/) | |
+| Lecture 2 - Variables  |  | | | |
+| Lab 1 - Whatevs      |  | | | |
+| Lecture 3 - What's up  |  | | | |
+| Lecture 4 - Wsup  | | | | |
 
 
 ## Useful material
