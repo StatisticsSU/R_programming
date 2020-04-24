@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ---
 layout: default
 ---
+=======
+
+>>>>>>> master
